@@ -1,0 +1,15 @@
+D:\GeekBrain\Lang_prog\new5\bin\Debug\net6.0\new5.exe
+D:\GeekBrain\Lang_prog\new5\bin\Debug\net6.0\new5.deps.json
+D:\GeekBrain\Lang_prog\new5\bin\Debug\net6.0\new5.runtimeconfig.json
+D:\GeekBrain\Lang_prog\new5\bin\Debug\net6.0\new5.dll
+D:\GeekBrain\Lang_prog\new5\bin\Debug\net6.0\new5.pdb
+D:\GeekBrain\Lang_prog\new5\obj\Debug\net6.0\new5.csproj.AssemblyReference.cache
+D:\GeekBrain\Lang_prog\new5\obj\Debug\net6.0\new5.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrain\Lang_prog\new5\obj\Debug\net6.0\new5.AssemblyInfoInputs.cache
+D:\GeekBrain\Lang_prog\new5\obj\Debug\net6.0\new5.AssemblyInfo.cs
+D:\GeekBrain\Lang_prog\new5\obj\Debug\net6.0\new5.csproj.CoreCompileInputs.cache
+D:\GeekBrain\Lang_prog\new5\obj\Debug\net6.0\new5.dll
+D:\GeekBrain\Lang_prog\new5\obj\Debug\net6.0\refint\new5.dll
+D:\GeekBrain\Lang_prog\new5\obj\Debug\net6.0\new5.pdb
+D:\GeekBrain\Lang_prog\new5\obj\Debug\net6.0\new5.genruntimeconfig.cache
+D:\GeekBrain\Lang_prog\new5\obj\Debug\net6.0\ref\new5.dll
